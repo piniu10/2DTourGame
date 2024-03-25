@@ -1,6 +1,0 @@
-# Unreal Engine specific
-/Intermediate/
-/Saved/
-*.uproject
-*.sln
-*.suo
