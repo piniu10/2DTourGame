@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/PRACA/Programowanie/Unreal Projects/HitProject2D/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"F:/PRACA/Programowanie/Unreal Projects/HitProject2D/Content/Maps/MainMenu.umap",
+				"F:/PRACA/Programowanie/Unreal Projects/HitProject2D/Content/Maps/Main.umap"
+			]
+		}
+	]
+}
